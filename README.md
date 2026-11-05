@@ -23,48 +23,44 @@ This project is inspired by Math Papa Algebra Calculator and other similar websi
 
 ## Running the Program
 
-### 1.) Install Pygame, Pygame-TextInput, and Numpy
+### 1.) Install Pygame, Pygame-TextInput, and NumPy
 
-Ensure Python is installed before attempting to continue install
+Ensure Python is installed before attempting to continue
 
 **windows**    
-&emsp;copy/paste in the terminal to install:    
-  &emsp;&emsp;python -m pip install pygame     
-  &emsp;&emsp;python -m pip install pygame-textinput     
-  &emsp;&emsp;python -m pip install numpy    
-
-&emsp;copy/paste in the terminal to test pygame, a minigame should run:    
-  &emsp;&emsp;python -m pygame.examples.aliens     
+* copy/paste in the terminal to install:    
+  - ```python -m pip install pygame```     
+  - ```python -m pip install pygame-textinput```     
+  - ```python -m pip install numpy```    
+* copy/paste in the terminal to test pygame (a minigame should run):    
+  -  ```python -m pygame.examples.aliens```     
     
 **Mac**     
-&emsp;copy/paste in the terminal to install:     
-  &emsp;&emsp;python3 -m pip install pygame     
-  &emsp;&emsp;python3 -m pip install pygame-textinput    
-  &emsp;&emsp;python3 -m pip install numpy     
-
-&emsp;copy/paste in the terminal to test pygame, a minigame should run:     
-  &emsp;&emsp;python3 -m pygame.examples.aliens     
+* copy/paste in the terminal to install:    
+  - ```python3 -m pip install pygame```     
+  - ```python3 -m pip install pygame-textinput```     
+  - ```python3 -m pip install numpy```    
+* copy/paste in the terminal to test Pygame (a minigame should run):    
+  -  ```python3 -m pygame.examples.aliens```     
 
 **Troubleshooting**
 * If any problems occur with Pygame, please visit the [Pygame GitHub](https://github.com/pygame/pygame) for more information.
-* If any problems occur with Numpy, please visit [numpy.org](https://numpy.org/install/) for more information.
+* If any problems occur with NumPy, please visit [numpy.org](https://numpy.org/install/) for more information.
 
 ### 2.) Run MainUI.py in your IDE or through the terminal
 
 **Windows**    
-&emsp;copy/paste in the terminal:   
-  &emsp;&emsp;python MainUI.py
+* copy/paste in the terminal: ```python MainUI.py```    
 
 **Mac**     
-&emsp;copy/paste in the terminal:   
-  &emsp;&emsp;python3 MainUI.py
+* copy/paste in the terminal: ```python3 MainUI.py```    
 
-Note: If any issues with the results display occur arithmetic results can also be viewed in the terminal
+Note: If any issues with the results display occur, arithmetic results can also be viewed in the terminal
 
 ## Project Status: Completed
 
 Left incomplete: 
-- Handling an infinite solution through writing it in parametric form
+- Handling an infinite solution by writing it in parametric form
 
 > Completed:
 > * Gaussian Elimination Algorithm
