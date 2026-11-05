@@ -230,3 +230,10 @@ def gaussian_elimination(matrix): #string input to handle fractions
             file.write(f"{variables[i]} = {results[i]}  ")
     file.close()
     return matrix, infiniteSolution, noSolution
+
+gaussian_elimination(np.array([[9,2,-1,4],[0,0,3,-1],[2,0,28,-2]]))
+with open('DisplayGuass.txt', 'r') as file:
+        # Read the entire content of the file into a string
+        file_content = file.read()
+        # Print the content to the console
+        print(file_content)
