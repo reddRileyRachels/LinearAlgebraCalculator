@@ -37,7 +37,7 @@ Ensure Python is installed before attempting to continue
   -  ```python -m pygame.examples.aliens```     
     
 **Mac**    
-* Open a PowerShell terminal in the project directory
+* Open a Terminal/Zsh terminal in the project directory
 * Run:    
   - ```python3 -m pip install pygame```     
   - ```python3 -m pip install pygame-textinput```     
@@ -56,7 +56,7 @@ Ensure Python is installed before attempting to continue
 * Run: ```python MainUI.py```    
 
 **Mac**     
-* Open a PowerShell terminal in the project directory
+* Open a Terminal/Zsh terminal in the project directory
 * Run: ```python3 MainUI.py```    
 
 Note: If any issues with the results display occur, arithmetic results can also be viewed in the terminal
