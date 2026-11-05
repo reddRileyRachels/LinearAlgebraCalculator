@@ -4,13 +4,13 @@
 
 This project is inspired by Math Papa Algebra Calculator and other similar websites that provide a step-by-step solution to math problems. Reviewing examples on websites like these has played a key role in Riley's study routine. We applied the Gaussian elimination algorithm learned in Linear Algebra to implement a system of equations calculator. The calculator shows each step of the matrix operations and back-substitution before providing the solution.
 
-## Technologies
+### Technologies
 
 - Python
 - NumPy
 - Pygame
 
-## Collaborators
+### Collaborators
 **Riley @reddwryly**
 - Gaussian Elimination Algorithm
 - Back substitution algebra algorithm 
@@ -28,19 +28,21 @@ This project is inspired by Math Papa Algebra Calculator and other similar websi
 Ensure Python is installed before attempting to continue
 
 **windows**    
-* copy/paste in the terminal to install:    
+* Open a PowerShell terminal in the project directory
+* Run:    
   - ```python -m pip install pygame```     
   - ```python -m pip install pygame-textinput```     
   - ```python -m pip install numpy```    
-* copy/paste in the terminal to test pygame (a minigame should run):    
+* Test Pygame with a minigame. Run:    
   -  ```python -m pygame.examples.aliens```     
     
-**Mac**     
-* copy/paste in the terminal to install:    
+**Mac**    
+* Open a PowerShell terminal in the project directory
+* Run:    
   - ```python3 -m pip install pygame```     
   - ```python3 -m pip install pygame-textinput```     
   - ```python3 -m pip install numpy```    
-* copy/paste in the terminal to test Pygame (a minigame should run):    
+* Test Pygame with a minigame. Run:    
   -  ```python3 -m pygame.examples.aliens```     
 
 **Troubleshooting**
@@ -50,10 +52,12 @@ Ensure Python is installed before attempting to continue
 ### 2.) Run MainUI.py in your IDE or through the terminal
 
 **Windows**    
-* copy/paste in the terminal: ```python MainUI.py```    
+* Open a PowerShell terminal in the project directory
+* Run: ```python MainUI.py```    
 
 **Mac**     
-* copy/paste in the terminal: ```python3 MainUI.py```    
+* Open a PowerShell terminal in the project directory
+* Run: ```python3 MainUI.py```    
 
 Note: If any issues with the results display occur, arithmetic results can also be viewed in the terminal
 
