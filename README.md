@@ -11,11 +11,11 @@ This project is inspired by Math Papa Algebra Calculator and other similar websi
 - Pygame
 
 ### Collaborators
-**Riley @reddwryly**
+Riley @reddwryly 
 - Gaussian Elimination Algorithm
 - Back substitution algebra algorithm 
 
-**Braeden @ThatRedBacon**
+Braeden @ThatRedBacon
 - UI in Pygame
   - Matrix inputs
   - Reset button
